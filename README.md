@@ -43,7 +43,7 @@ yarn
 
 ## ```Scan QR Here```
 
-<a href="https://qr.queenanya.me/"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" /> </a>
+<a href="http://bit.ly/scanner_queenanya"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" /> </a>
   
 ## ```Deploy On Railway```
 
@@ -55,7 +55,7 @@ yarn
 
 ## ```Deploy On Heroku```
 
-[![Deploy on Heroku](https://heroku.deploy.queenanya.work.gd/)
+[Deploy on Heroku](https://heroku.deploy.queenanya.work.gd/)
 
 
 
